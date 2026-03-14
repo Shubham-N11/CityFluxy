@@ -427,11 +427,11 @@ public_url = ngrok.connect(
 print("Public URL:", public_url)
 ```
 
-> Copy the **Public URL** printed above — you'll need it in step 6 below.
+> Copy the **Public URL** printed above — you'll need it in cell 6 below.
 
 ---
 
-**Cell 4 — Interactive chatbot loop (optional Colab test)**
+**Cell 5 — Interactive chatbot loop (optional Colab test)**
 
 ```python
 import requests
@@ -476,7 +476,7 @@ while True:
 
 ---
 
-**Cell 5 — Update the front-end with your ngrok URL**
+**Cell 6 — Update the front-end with your ngrok URL**
 
 Open [front-end/src/components/UI/AIChatbot.tsx](file:///e:/CityFluxy/front-end/src/components/UI/AIChatbot.tsx) and update this line with the Public URL from Cell 3:
 
