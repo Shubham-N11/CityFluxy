@@ -31,4 +31,3 @@ env/
 
 # YOLO
 runs/
-*.pt
