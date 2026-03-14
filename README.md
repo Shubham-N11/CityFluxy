@@ -161,7 +161,7 @@ back-end/
 
 ## 🤖 AI / ML Layer
 
-The AI/ML directory is initialized (placeholder [.gitkeep](file:///e:/CityFluxy/ai-ml/.gitkeep)) and represents the **Python-side computer vision pipeline**. Based on references throughout the codebase:
+The AI/ML directory is initialized and represents the **Python-side computer vision pipeline**. Based on references throughout the codebase:
 
 - **YOLOv8x** is used for vehicle and helmet violation detection from CCTV footage.
 - A **FastAPI / uvicorn** server streams processed video output (`/video` endpoint on port 8000) to the front-end CCTV page.
