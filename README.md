@@ -1,7 +1,6 @@
 # CityFluxy — Project Documentation & Summary
 
 > **"Next-Gen Autonomous City Surveillance & Neural Traffic Intelligence"**
-> © 2026 Nexus Systems Corp
 
 ---
 
