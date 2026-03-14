@@ -24,4 +24,3 @@ __pycache__/
 
 # Ultralytics / YOLOv8 caches
 runs/
-yolo*.pt
