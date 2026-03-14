@@ -225,7 +225,7 @@ npm -v    # should print v9.x.x or higher
 
 ---
 
-### Step 1 — Clone the Repository
+### Step 1a — Clone the Repository
 
 ```bash
 git clone https://github.com/your-org/CityFluxy.git
