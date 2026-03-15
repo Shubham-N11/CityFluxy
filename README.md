@@ -2,6 +2,8 @@
 
 > **"Next-Gen Autonomous City Surveillance & Neural Traffic Intelligence"**
 
+*This project is made by **TEAM VICTOR** which is a Hackathon specific team.*
+
 ---
 
 ## 🌆 What is CityFluxy?
@@ -228,7 +230,7 @@ npm -v    # should print v9.x.x or higher
 ### Step 1a — Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/CityFluxy.git
+git clone https://github.com/Shubham-N11/CityFluxy.git
 cd CityFluxy
 ```
 
